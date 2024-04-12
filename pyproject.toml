@@ -11,7 +11,7 @@ exclude = ["**/*.txt"]
 [tool.poetry.dependencies]
 python = "^3.7"
 websocket-client = "^1.5.1"
-requests = "2.29.0"
+requests = "2.31.0"
 tls-client = "^0.2"
 pypasser = "^0.0.5"
 names = "^0.3.0"
